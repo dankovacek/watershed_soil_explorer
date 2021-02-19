@@ -1,0 +1,11 @@
+data/ca_all_hydro_v3r1/*
+data/ca_all_slc_v3r2/
+data/gridded_slc_90m/
+data/PED_SLC_DERIVED_V3_2_CT1M_gml/
+data/ca_all_slc_v3r1/
+data/soil_landscapes_of_canada_v3r2_gdb/
+data/Soils_of_Canada32C_Derived-shp/
+data/soil_layer_bc_v2r20150610.dbf
+data/soil_name_bc_v2r20150610.dbf
+.ipynb_checkpoints/
+*/ss/*
